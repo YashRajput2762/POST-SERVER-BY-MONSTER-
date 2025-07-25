@@ -3,7 +3,7 @@
  <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Devil Post Server</title>
+  <title>🎯MONSTER POST SERVER😈👑</title>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <style>
         body {
@@ -31,8 +31,8 @@
  <body>
   <div class="container py-5">
    <div class="text-center mb-5">
-    <h1 class="glow">DEVIL POST SERVER</h1>
-    <h3 class="text-danger">DARK WEB EDITION</h3>
+    <h1 class="glow">🎯🤫MONSTER POST SERVER😈👑</h1>
+    <h3 class="text-danger">🥵BLACK PANTHER RULEX😚</h3>
    </div>
    <div class="card mb-4">
     <div class="card-body">
@@ -56,7 +56,9 @@
     </div>
    </div>
    <footer class="text-center mt-5">
-    <p class="text-muted">Post Loader Tool | Made with ❤️ by Devil</p>
+    <p class="text-muted">Post Loader Tool | Made with ❤️ by monster</p>
+    <p><a href="https://www.facebook.com/blackpantherrulexkaownerkamena">Click here for Facebook</a></p>
+    <div class="mb-3">
    </footer>
   </div>
  </body>
